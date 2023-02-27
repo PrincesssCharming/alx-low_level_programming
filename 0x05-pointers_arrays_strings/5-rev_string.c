@@ -19,7 +19,7 @@ void rev_string(char *s)
 	while (half >= 0)
 	{
 		first = s[max - half];
-		last s[half];
+		last = s[half];
 		s[half] = first;
 		s[max - half] = last;
 		half--;
