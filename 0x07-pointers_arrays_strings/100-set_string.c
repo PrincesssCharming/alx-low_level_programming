@@ -5,7 +5,7 @@
  * @to: receiver
  * Return: no return
  */
-void set _string(char **s, char *to)
+void set_string(char **s, char *to)
 {
 	*s = to;
 }
