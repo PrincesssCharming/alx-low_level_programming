@@ -12,5 +12,5 @@ int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 void _putchar(char c);
 int _sqrt(int n, int i);
-
+int _putchar(char c);
 #endif
